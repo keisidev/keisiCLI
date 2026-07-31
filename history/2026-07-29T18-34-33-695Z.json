@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "ds"
+  },
+  {
+    "role": "assistant",
+    "content": "**Directories**\n- `history/`\n- `logs/`\n- `src/`\n\n**Files**\n- `.env`\n- `README.md`\n- `debug-read.mjs`\n- `index.mjs`\n- `package-lock.json`\n- `package.json`\n- `safetest.txt`\n- `test-api.mjs`\n- `tested.mjs`"
+  }
+]

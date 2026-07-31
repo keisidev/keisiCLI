@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! 👋 How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "dsd"
+  },
+  {
+    "role": "assistant",
+    "content": "It looks like your message might have been cut off. How can I help you today?"
+  }
+]

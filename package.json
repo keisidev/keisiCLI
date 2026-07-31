@@ -1,0 +1,25 @@
+{
+  "name": "groq-cli",
+  "version": "1.0.0",
+  "description": "Interactive CLI assistant powered by Groq API",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "groq-cli": "./index.mjs"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "diff": "^5.2.0",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "openai": "^4.28.0",
+    "ora": "^8.0.1",
+    "readline-sync": "^1.2.21"
+  }
+} 

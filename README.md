@@ -1,1 +1,1 @@
-groq cli
+Personal AI coding assistant CLI built with Node.js for automating coding tasks, file operations, and project management.

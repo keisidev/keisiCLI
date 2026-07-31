@@ -1,1 +1,1 @@
-# Welcome to Manny Pacquiao\n\nThis is the home of groq-cli and all its glory.
+groq cli
